@@ -1,4 +1,4 @@
 # LPP
-Learn++
-Incremental Image Learning System
-Developing by Biointelligence Lab
+##Learn++
+- Incremental Image Learning System
+- Developing by Biointelligence Lab
