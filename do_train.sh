@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for Idx in {120..200}
+for Idx in {1..200}
 do
 	if [ $Idx == 1 ]
 	then
