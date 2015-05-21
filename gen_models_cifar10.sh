@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 while IFS=, read col1 col2 col3 col4
 do
