@@ -21,6 +21,6 @@ display: 50
 max_iter: 50
 # snapshot intermediate results
 snapshot: 50
-snapshot_prefix: "snapshots/cifar10/cifar10_full"
+snapshot_prefix: "snapshots/cifar10/cifar10_full_%Idx%"
 # solver mode: CPU or GPU
 solver_mode: GPU
